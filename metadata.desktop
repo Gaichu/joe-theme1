@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Concerned Joe
+Description=Concerned Joe Theme
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/Gaichu/joe-theme
+Screenshot=joe.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=joe
+Theme-API=1.1
